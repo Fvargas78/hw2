@@ -13,10 +13,9 @@ a {
     color: white;
     font-family: "candara", Helvetica, Arial;
   }
-h1 {
+h1, h3 {
     text-align:center;
     font-family: "candara", Helvetica, Arial;
-    font-size: 50px;
     color: black;
     margin-top: 3%;
     letter-spacing:5px;
@@ -56,7 +55,7 @@ h1 {
   td {
     text-decoration: none;
     color: black;
-    font-family: "Courier New", Courier, monospace;
+    font-family: "candara", Helvetica, Arial;
     padding: 1%;
       font-weight: bold;
   } 
